@@ -6,3 +6,5 @@ Hi! I'm Curtis. I'm a bioinformatician working with Theiagen Genomics. I'm a fan
 - 💬 Ask me about - Microbial & viral genomes, plasmids, software containers
 - 📫 How to reach me - [Twitter](https://twitter.com/CurtisKapsak), [LinkedIn](https://www.linkedin.com/in/curtis-kapsak-7245a7b6/), email kapsakcj (at) gmail (dot) com, 
 - 😄 Pronouns - He/Him
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kapsakcj&label=Profile%20views&color=0e75b6&style=flat" />
